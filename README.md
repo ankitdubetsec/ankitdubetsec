@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/ankit-dubey-8975681ba/"><img src="https://img.shields.io/badge/-@AnkitDubey-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/ankit-dubey-8975681ba/" alt="LinkedIn Badge"></a>
 <a href="https://github.com/ankitdubetsec"><img src="https://img.shields.io/badge/-@ankitdubetsec-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=GitHub&link=https://github.com/ankitdubetsec" alt="GitHub Badge"></a>
 <a href="https://leetcode.com/ankitdubetsec/"><img src="https://img.shields.io/badge/-@AnkitDubey-FFA116?style=flat-square&labelColor=FFA116&logo=leetcode&link=https://leetcode.com/ankitdubetsec/" alt="LeetCode Badge"></a>
-  ![Resume Badge](https://img.shields.io/badge/Resume-Available-blue)
-[Resume](https://github.com/username/username/raw/main/resume.pdf)
-
+  <a href="https://github.com/username/username/raw/main/resume.pdf">
+    <img src="https://img.shields.io/badge/-Resume-4CAF50?style=flat-square&labelColor=4CAF50&logo=pdf&link=https://github.com/username/username/raw/main/resume.pdf" alt="Resume Badge">
+  </a>
 </p>  
 
 <p>🍌 Remember: Stay curious and keep solving! 🍌</p>  
