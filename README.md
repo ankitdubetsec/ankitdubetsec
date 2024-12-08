@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://lustrous-cucurucho-d9485f.netlify.app/">Ankit</a></h2>  
-<p>I'm a final-year Information Technology student at <strong>Thadomal Shahani Engineering College</strong>, Mumbai. Passionate about software development, I've interned as a Full Stack Developer at <strong>NexGen Elit</strong>, working on impactful client projects. Currently, I am sharpening my skills in <strong>web development</strong>, <strong>cloud computing</strong>, <strong>cs fundamentals</strong> and <strong>competitive programming</strong>.</p>  
+<p>I'm a final-year Information Technology student at <strong>Thadomal Shahani Engineering College</strong>, Mumbai. Passionate about software development, I've interned as a Full Stack Developer at <strong>NexGen Elit</strong>, working on impactful client projects. Currently, I am sharpening my skills in <strong>web development</strong>, <strong>cloud computing</strong>, <strong>CS fundamentals</strong>, and <strong>competitive programming</strong>.</p>  
 
 <p>
 <a href="https://lustrous-cucurucho-d9485f.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://lustrous-cucurucho-d9485f.netlify.app/" alt="Website Badge"></a>
@@ -30,6 +30,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" height="25" />  
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="25" height="25" />  
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25" />  
 </p>  
 
 <h2>✒️ Projects and Achievements</h2>  
@@ -39,4 +47,4 @@
 <li><a href="https://leetcode.com/ankitdubetsec/">Competitive Programming</a> - Solved 400+ problems across multiple platforms and achieved top ranks in LeetCode contests.</li>  
 </ul>  
 
-<p align="center"><a href="https://lustrous-cucurucho-d9485f.netlify.app/">Explore More on My Portfolio</a></p>  
+<p align="center"><a href="https://lustrous-cucurucho-d9485f.netlify.app/">Explore More on My Portfolio</a></p>
