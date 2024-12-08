@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://lustrous-cucurucho-d9485f.netlify.app/">Ankit</a></h2>  
-<p>I'm a third-year Information Technology student at <strong>Thadomal Shahani Engineering College</strong>, Mumbai. Passionate about software development, I've interned as a Full Stack Developer at <strong>NexGen Elit</strong>, working on impactful client projects. Currently, I am sharpening my skills in <strong>web development</strong>, <strong>cloud computing</strong>, and <strong>competitive programming</strong>.</p>  
+<p>I'm a final-year Information Technology student at <strong>Thadomal Shahani Engineering College</strong>, Mumbai. Passionate about software development, I've interned as a Full Stack Developer at <strong>NexGen Elit</strong>, working on impactful client projects. Currently, I am sharpening my skills in <strong>web development</strong>, <strong>cloud computing</strong>, <strong>cs fundamentals</strong> and <strong>competitive programming</strong>.</p>  
 
 <p>
 <a href="https://lustrous-cucurucho-d9485f.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://lustrous-cucurucho-d9485f.netlify.app/" alt="Website Badge"></a>
@@ -14,7 +14,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>  
 <ul>  
-<li>🔭 I’m currently working on <a href="https://github.com/ankitdubetsec/scholarship-finder">Scholar</a> and <a href="https://github.com/ankitdubetsec/IRCTC_API">IRCTC Railway Management API</a>.</li>  
+<li>🔭 I’m currently working on <a href="https://github.com/ankitdubetsec/IRCTC_API">IRCTC Railway Management API</a>.</li>  
 <li>🧐 Learning about <strong>Node.js</strong>, <strong>React.js</strong>, and <strong>AWS services</strong>.</li>  
 <li>💬 Ping me about <strong>full-stack development</strong>, <strong>cloud computing</strong>, and <strong>competitive programming</strong>.</li>  
 <li>📚 I’ve solved over 280+ problems on LeetCode and secured a <strong>rank of 1371</strong> in Biweekly Contest 135.</li>  
