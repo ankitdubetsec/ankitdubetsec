@@ -10,7 +10,7 @@
 
 <p>🍌 Remember: Stay curious and keep solving! 🍌</p>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ankitdubetsec&show_icons=true&theme=radical" alt="Ankit's GitHub Stats" />  
+<img align="right" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding gif" />  
 
 <h2>⚡️ A Few Quick Facts</h2>  
 <ul>  
